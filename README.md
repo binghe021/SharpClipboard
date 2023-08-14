@@ -1,0 +1,2 @@
+# SharpClipboard
+通过监控剪切板中复制的m3u8链接文本而自动调用N_m3u8DL-CLI进行下载。
